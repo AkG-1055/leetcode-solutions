@@ -46,6 +46,11 @@ My LeetCode solutions synced automatically using LeetHub.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AkG-1055/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AkG-1055/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
