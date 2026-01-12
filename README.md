@@ -29,6 +29,7 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/AkG-1055/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -58,4 +59,8 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AkG-1055/leetcode-solutions/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
