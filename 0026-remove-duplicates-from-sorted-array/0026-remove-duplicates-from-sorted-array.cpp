@@ -4,10 +4,10 @@ public:
         int reader = 1;
         int writer = 0;
 
-        for (int reader = 1; reader < nums.size(); reader++){
-            if (nums[reader] != nums[writer]){
+        for (int i = 1; i < nums.size(); i++){
+            if (nums[i] != nums[i-1]){
                 writer++;
-                nums[writer] = nums[reader];
+                nums[writer] = nums[i];
             }
         }
 
