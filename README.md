@@ -44,6 +44,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0141-linked-list-cycle](https://github.com/AkG-1055/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkG-1055/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -63,4 +64,21 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
