@@ -69,6 +69,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/AkG-1055/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
