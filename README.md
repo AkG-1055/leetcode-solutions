@@ -69,6 +69,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | ------- |
 | [0001-two-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/AkG-1055/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkG-1055/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/0169-majority-element) |
@@ -85,6 +86,7 @@ My LeetCode solutions synced automatically using LeetHub.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AkG-1055/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/AkG-1055/leetcode-solutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
