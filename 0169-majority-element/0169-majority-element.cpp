@@ -11,9 +11,9 @@ public:
                 if (nums[i] == nums[j]){
                     count = count + 1;
                 }
-                if (count > max_count){
-                    max_count = count;
-                }
+            }
+            if (count > max_count){
+                max_count = count;
             }
             if (max_count > n/2){
                 return nums[i];
