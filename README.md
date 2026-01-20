@@ -50,6 +50,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0160-intersection-of-two-linked-lists](https://github.com/AkG-1055/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
+| [2404-most-frequent-even-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Stack
 |  |
 | ------- |
@@ -81,6 +82,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0704-binary-search](https://github.com/AkG-1055/leetcode-solutions/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AkG-1055/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkG-1055/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2404-most-frequent-even-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +112,7 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/0169-majority-element) |
+| [2404-most-frequent-even-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Dynamic Programming
 |  |
 | ------- |
