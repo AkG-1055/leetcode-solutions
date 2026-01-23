@@ -13,6 +13,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0141-linked-list-cycle](https://github.com/AkG-1055/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkG-1055/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -36,6 +37,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0141-linked-list-cycle](https://github.com/AkG-1055/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkG-1055/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -117,12 +119,14 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AkG-1055/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -137,4 +141,8 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkG-1055/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
