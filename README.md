@@ -94,6 +94,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0485-max-consecutive-ones](https://github.com/AkG-1055/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AkG-1055/leetcode-solutions/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AkG-1055/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AkG-1055/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -156,4 +157,8 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
