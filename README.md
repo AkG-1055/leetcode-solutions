@@ -97,6 +97,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0540-single-element-in-a-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AkG-1055/leetcode-solutions/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/AkG-1055/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AkG-1055/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AkG-1055/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -120,6 +121,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0278-first-bad-version](https://github.com/AkG-1055/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AkG-1055/leetcode-solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/AkG-1055/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AkG-1055/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
