@@ -57,6 +57,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0169-majority-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [2404-most-frequent-even-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Stack
 |  |
@@ -67,6 +68,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0225-implement-stack-using-queues](https://github.com/AkG-1055/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkG-1055/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -100,6 +102,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0283-move-zeroes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/AkG-1055/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AkG-1055/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AkG-1055/leetcode-solutions/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0860-lemonade-change) |
@@ -187,4 +190,8 @@ My LeetCode solutions synced automatically using LeetHub.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AkG-1055/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkG-1055/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
