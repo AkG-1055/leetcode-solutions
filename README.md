@@ -118,6 +118,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0503-next-greater-element-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AkG-1055/leetcode-solutions/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/AkG-1055/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AkG-1055/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -184,6 +185,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkG-1055/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Simulation
 |  |
 | ------- |
