@@ -135,6 +135,7 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AkG-1055/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
