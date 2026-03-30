@@ -99,6 +99,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0042-trapping-rain-water](https://github.com/AkG-1055/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AkG-1055/leetcode-solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AkG-1055/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/AkG-1055/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -167,6 +168,7 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AkG-1055/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/0169-majority-element) |
