@@ -117,6 +117,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AkG-1055/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AkG-1055/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -172,6 +173,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0217-contains-duplicate](https://github.com/AkG-1055/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AkG-1055/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
@@ -196,6 +198,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0198-house-robber](https://github.com/AkG-1055/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [3693-climbing-stairs-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
@@ -213,6 +216,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0045-jump-game-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AkG-1055/leetcode-solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/AkG-1055/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AkG-1055/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Interactive
