@@ -76,11 +76,13 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0402-remove-k-digits](https://github.com/AkG-1055/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkG-1055/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/AkG-1055/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
@@ -202,6 +204,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0322-coin-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [3693-climbing-stairs-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Simulation
@@ -220,6 +223,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0402-remove-k-digits](https://github.com/AkG-1055/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AkG-1055/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Interactive
 |  |
