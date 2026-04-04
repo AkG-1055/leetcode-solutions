@@ -138,6 +138,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkG-1055/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [2560-house-robber-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/2560-house-robber-iv) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3693-climbing-stairs-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Math
@@ -165,6 +166,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0875-koko-eating-bananas](https://github.com/AkG-1055/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AkG-1055/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2560-house-robber-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/2560-house-robber-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -211,6 +213,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0678-valid-parenthesis-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/AkG-1055/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2560-house-robber-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/2560-house-robber-iv) |
 | [3693-climbing-stairs-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Simulation
 |  |
@@ -231,6 +234,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0455-assign-cookies](https://github.com/AkG-1055/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [2560-house-robber-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/2560-house-robber-iv) |
 ## Interactive
 |  |
 | ------- |
