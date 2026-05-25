@@ -108,6 +108,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0055-jump-game](https://github.com/AkG-1055/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AkG-1055/leetcode-solutions/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/AkG-1055/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AkG-1055/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AkG-1055/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -151,6 +152,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | ------- |
 | [0007-reverse-integer](https://github.com/AkG-1055/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/AkG-1055/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
