@@ -104,6 +104,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0035-search-insert-position](https://github.com/AkG-1055/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/AkG-1055/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/AkG-1055/leetcode-solutions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/AkG-1055/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AkG-1055/leetcode-solutions/tree/master/0057-insert-interval) |
@@ -270,4 +271,8 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/AkG-1055/leetcode-solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
