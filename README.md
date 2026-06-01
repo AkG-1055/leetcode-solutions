@@ -160,6 +160,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2016-maximum-difference-between-increasing-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AkG-1055/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AkG-1055/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkG-1055/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/AkG-1055/leetcode-solutions/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -216,6 +217,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0435-non-overlapping-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AkG-1055/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AkG-1055/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -269,6 +271,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0678-valid-parenthesis-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AkG-1055/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AkG-1055/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2560-house-robber-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/2560-house-robber-iv) |
 ## Interactive
 |  |
