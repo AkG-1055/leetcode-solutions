@@ -155,6 +155,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0860-lemonade-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/AkG-1055/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/AkG-1055/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1200-minimum-absolute-difference](https://github.com/AkG-1055/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AkG-1055/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AkG-1055/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -216,6 +217,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AkG-1055/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [1200-minimum-absolute-difference](https://github.com/AkG-1055/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AkG-1055/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
