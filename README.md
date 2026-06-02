@@ -150,6 +150,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0496-next-greater-element-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/AkG-1055/leetcode-solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/AkG-1055/leetcode-solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0860-lemonade-change) |
@@ -217,6 +218,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AkG-1055/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/AkG-1055/leetcode-solutions/tree/master/0561-array-partition) |
 | [1200-minimum-absolute-difference](https://github.com/AkG-1055/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AkG-1055/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -270,6 +272,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0402-remove-k-digits](https://github.com/AkG-1055/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AkG-1055/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/AkG-1055/leetcode-solutions/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AkG-1055/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -327,4 +330,8 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/AkG-1055/leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
