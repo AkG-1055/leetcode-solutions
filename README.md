@@ -203,6 +203,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | ------- |
 | [0136-single-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/AkG-1055/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Sorting
 |  |
 | ------- |
@@ -318,6 +319,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0047-permutations-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/AkG-1055/leetcode-solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/AkG-1055/leetcode-solutions/tree/master/0077-combinations) |
+| [0401-binary-watch](https://github.com/AkG-1055/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Bucket Sort
 |  |
 | ------- |
