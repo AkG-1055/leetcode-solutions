@@ -58,6 +58,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0557-reverse-words-in-a-string-iii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkG-1055/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0541-reverse-string-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/AkG-1055/leetcode-solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2810-faulty-keyboard](https://github.com/AkG-1055/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AkG-1055/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -188,6 +190,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2016-maximum-difference-between-increasing-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AkG-1055/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AkG-1055/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkG-1055/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
