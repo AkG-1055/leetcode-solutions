@@ -237,6 +237,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AkG-1055/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -250,6 +251,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | ------- |
 | [0090-subsets-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AkG-1055/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/AkG-1055/leetcode-solutions/tree/master/0401-binary-watch) |
@@ -441,6 +443,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/AkG-1055/leetcode-solutions/tree/master/0687-longest-univalue-path) |
@@ -471,6 +474,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/AkG-1055/leetcode-solutions/tree/master/0687-longest-univalue-path) |
