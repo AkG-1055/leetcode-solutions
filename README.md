@@ -183,6 +183,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0169-majority-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/AkG-1055/leetcode-solutions/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/AkG-1055/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -248,6 +249,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AkG-1055/leetcode-solutions/tree/master/0278-first-bad-version) |
@@ -423,6 +425,7 @@ My LeetCode solutions synced automatically using LeetHub.
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Counting Sort
@@ -433,6 +436,7 @@ My LeetCode solutions synced automatically using LeetHub.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AkG-1055/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/AkG-1055/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AkG-1055/leetcode-solutions/tree/master/0724-find-pivot-index) |
