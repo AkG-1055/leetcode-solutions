@@ -73,6 +73,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/AkG-1055/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/AkG-1055/leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AkG-1055/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkG-1055/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -123,6 +124,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AkG-1055/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/AkG-1055/leetcode-solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/AkG-1055/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -186,6 +188,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0128-longest-consecutive-sequence](https://github.com/AkG-1055/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/AkG-1055/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/AkG-1055/leetcode-solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/AkG-1055/leetcode-solutions/tree/master/0164-maximum-gap) |
@@ -333,6 +336,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkG-1055/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/AkG-1055/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/AkG-1055/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0322-coin-change) |
@@ -403,6 +407,7 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/AkG-1055/leetcode-solutions/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
 |  |
@@ -473,6 +478,7 @@ My LeetCode solutions synced automatically using LeetHub.
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/AkG-1055/leetcode-solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Tree
 |  |
