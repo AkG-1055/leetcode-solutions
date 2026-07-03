@@ -222,6 +222,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0860-lemonade-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/AkG-1055/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/AkG-1055/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AkG-1055/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/AkG-1055/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AkG-1055/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1732-find-the-highest-altitude](https://github.com/AkG-1055/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -269,6 +270,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0540-single-element-in-a-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AkG-1055/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AkG-1055/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AkG-1055/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AkG-1055/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2560-house-robber-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/2560-house-robber-iv) |
