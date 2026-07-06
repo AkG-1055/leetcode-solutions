@@ -88,6 +88,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0389-find-the-difference](https://github.com/AkG-1055/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AkG-1055/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0697-degree-of-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0740-delete-and-earn](https://github.com/AkG-1055/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/AkG-1055/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -216,6 +217,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0560-subarray-sum-equals-k](https://github.com/AkG-1055/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/AkG-1055/leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/AkG-1055/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0697-degree-of-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/AkG-1055/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AkG-1055/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/AkG-1055/leetcode-solutions/tree/master/0740-delete-and-earn) |
