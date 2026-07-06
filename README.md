@@ -130,6 +130,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0344-reverse-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/AkG-1055/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/AkG-1055/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0434-number-of-segments-in-a-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/AkG-1055/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
