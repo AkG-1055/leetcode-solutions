@@ -305,6 +305,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0342-power-of-four](https://github.com/AkG-1055/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AkG-1055/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/AkG-1055/leetcode-solutions/tree/master/0401-binary-watch) |
+| [0461-hamming-distance](https://github.com/AkG-1055/leetcode-solutions/tree/master/0461-hamming-distance) |
 ## Sorting
 |  |
 | ------- |
