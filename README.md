@@ -151,6 +151,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [3146-permutation-difference-between-two-strings](https://github.com/AkG-1055/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3612-process-string-with-special-operations-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3931-check-adjacent-digit-differences](https://github.com/AkG-1055/leetcode-solutions/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/AkG-1055/leetcode-solutions/tree/master/3941-password-strength) |
 ## Design
@@ -272,6 +273,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0509-fibonacci-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AkG-1055/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -493,6 +495,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0560-subarray-sum-equals-k](https://github.com/AkG-1055/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AkG-1055/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/AkG-1055/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
 |  |
 | ------- |
