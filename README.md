@@ -31,6 +31,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0231-power-of-two](https://github.com/AkG-1055/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/AkG-1055/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AkG-1055/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -266,6 +267,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0231-power-of-two](https://github.com/AkG-1055/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AkG-1055/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AkG-1055/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AkG-1055/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -297,6 +299,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0222-count-complete-tree-nodes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AkG-1055/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/AkG-1055/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AkG-1055/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/AkG-1055/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Sorting
