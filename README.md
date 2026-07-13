@@ -304,6 +304,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0090-subsets-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/AkG-1055/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/AkG-1055/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AkG-1055/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
@@ -345,6 +346,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0148-sort-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/AkG-1055/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/AkG-1055/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
