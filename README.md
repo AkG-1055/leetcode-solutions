@@ -276,6 +276,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0342-power-of-four](https://github.com/AkG-1055/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AkG-1055/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2119-a-number-after-a-double-reversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
