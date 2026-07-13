@@ -148,6 +148,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2315-count-asterisks](https://github.com/AkG-1055/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/AkG-1055/leetcode-solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2810-faulty-keyboard](https://github.com/AkG-1055/leetcode-solutions/tree/master/2810-faulty-keyboard) |
+| [2942-find-words-containing-character](https://github.com/AkG-1055/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AkG-1055/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3612-process-string-with-special-operations-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
@@ -255,6 +256,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2446-determine-if-two-events-have-conflict](https://github.com/AkG-1055/leetcode-solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2560-house-robber-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/2560-house-robber-iv) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/AkG-1055/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2942-find-words-containing-character](https://github.com/AkG-1055/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/AkG-1055/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3693-climbing-stairs-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
