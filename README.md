@@ -179,6 +179,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0046-permutations](https://github.com/AkG-1055/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/AkG-1055/leetcode-solutions/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AkG-1055/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AkG-1055/leetcode-solutions/tree/master/0057-insert-interval) |
@@ -391,6 +392,7 @@ My LeetCode solutions synced automatically using LeetHub.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkG-1055/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2810-faulty-keyboard](https://github.com/AkG-1055/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3612-process-string-with-special-operations-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -632,6 +634,7 @@ My LeetCode solutions synced automatically using LeetHub.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/AkG-1055/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AkG-1055/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/AkG-1055/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
