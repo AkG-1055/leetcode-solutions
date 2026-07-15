@@ -484,6 +484,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0637-average-of-levels-in-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AkG-1055/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/AkG-1055/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Backtracking
 |  |
@@ -577,6 +578,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0701-insert-into-a-binary-search-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -603,6 +605,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0637-average-of-levels-in-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/AkG-1055/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/AkG-1055/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
@@ -635,6 +638,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0701-insert-into-a-binary-search-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Quickselect
 |  |
 | ------- |
