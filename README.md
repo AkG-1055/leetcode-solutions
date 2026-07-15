@@ -95,6 +95,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0740-delete-and-earn](https://github.com/AkG-1055/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/AkG-1055/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AkG-1055/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -246,6 +247,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1200-minimum-absolute-difference](https://github.com/AkG-1055/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AkG-1055/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1512-number-of-good-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/AkG-1055/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AkG-1055/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -281,6 +283,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0342-power-of-four](https://github.com/AkG-1055/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AkG-1055/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1512-number-of-good-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AkG-1055/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -365,6 +368,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0229-majority-element-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/AkG-1055/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Dynamic Programming
