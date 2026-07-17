@@ -216,6 +216,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0189-rotate-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/AkG-1055/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AkG-1055/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/AkG-1055/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -288,6 +289,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0066-plus-one](https://github.com/AkG-1055/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AkG-1055/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AkG-1055/leetcode-solutions/tree/master/0326-power-of-three) |
@@ -549,6 +551,7 @@ My LeetCode solutions synced automatically using LeetHub.
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0204-count-primes) |
 | [2951-find-the-peaks](https://github.com/AkG-1055/leetcode-solutions/tree/master/2951-find-the-peaks) |
 ## Heap (Priority Queue)
 |  |
@@ -690,6 +693,7 @@ My LeetCode solutions synced automatically using LeetHub.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AkG-1055/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
