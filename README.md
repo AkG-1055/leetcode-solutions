@@ -246,6 +246,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0740-delete-and-earn](https://github.com/AkG-1055/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/AkG-1055/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/AkG-1055/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/AkG-1055/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -421,6 +422,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | ------- |
 | [0054-spiral-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkG-1055/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2810-faulty-keyboard](https://github.com/AkG-1055/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3612-process-string-with-special-operations-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -681,6 +683,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0240-search-a-2d-matrix-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/AkG-1055/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/AkG-1055/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0867-transpose-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/AkG-1055/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/AkG-1055/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
