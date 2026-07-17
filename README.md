@@ -182,6 +182,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0045-jump-game-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/AkG-1055/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/AkG-1055/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/AkG-1055/leetcode-solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AkG-1055/leetcode-solutions/tree/master/0055-jump-game) |
@@ -282,6 +283,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0009-palindrome-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AkG-1055/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AkG-1055/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/AkG-1055/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AkG-1055/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -669,6 +671,7 @@ My LeetCode solutions synced automatically using LeetHub.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AkG-1055/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
