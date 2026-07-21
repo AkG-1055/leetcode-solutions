@@ -234,6 +234,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0283-move-zeroes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/AkG-1055/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AkG-1055/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -371,6 +372,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/AkG-1055/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AkG-1055/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/AkG-1055/leetcode-solutions/tree/master/0561-array-partition) |
