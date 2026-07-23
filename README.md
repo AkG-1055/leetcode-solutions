@@ -76,6 +76,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0012-integer-to-roman](https://github.com/AkG-1055/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AkG-1055/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/AkG-1055/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -138,6 +139,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0013-roman-to-integer](https://github.com/AkG-1055/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AkG-1055/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/AkG-1055/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/AkG-1055/leetcode-solutions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/AkG-1055/leetcode-solutions/tree/master/0165-compare-version-numbers) |
@@ -192,6 +194,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0046-permutations](https://github.com/AkG-1055/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/AkG-1055/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/AkG-1055/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AkG-1055/leetcode-solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AkG-1055/leetcode-solutions/tree/master/0055-jump-game) |
@@ -366,6 +369,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | ------- |
 | [0015-3sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/AkG-1055/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AkG-1055/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0088-merge-sorted-array) |
