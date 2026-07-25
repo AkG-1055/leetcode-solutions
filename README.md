@@ -323,6 +323,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/AkG-1055/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [3536-maximum-product-of-two-digits](https://github.com/AkG-1055/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AkG-1055/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -398,6 +399,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AkG-1055/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AkG-1055/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3536-maximum-product-of-two-digits](https://github.com/AkG-1055/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
