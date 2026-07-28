@@ -169,6 +169,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2810-faulty-keyboard](https://github.com/AkG-1055/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/AkG-1055/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AkG-1055/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -409,6 +410,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AkG-1055/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AkG-1055/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AkG-1055/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -603,6 +605,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0561-array-partition](https://github.com/AkG-1055/leetcode-solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/AkG-1055/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
 |  |
 | ------- |
