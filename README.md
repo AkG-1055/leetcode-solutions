@@ -101,6 +101,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0697-degree-of-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/AkG-1055/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/AkG-1055/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0771-jewels-and-stones](https://github.com/AkG-1055/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AkG-1055/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/AkG-1055/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -164,6 +165,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0647-palindromic-substrings](https://github.com/AkG-1055/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/AkG-1055/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0771-jewels-and-stones](https://github.com/AkG-1055/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AkG-1055/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/AkG-1055/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/AkG-1055/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
