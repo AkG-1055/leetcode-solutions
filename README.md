@@ -345,6 +345,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2119-a-number-after-a-double-reversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/AkG-1055/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/AkG-1055/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [2525-categorize-box-according-to-criteria](https://github.com/AkG-1055/leetcode-solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AkG-1055/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AkG-1055/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
