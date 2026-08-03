@@ -154,6 +154,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0344-reverse-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/AkG-1055/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/AkG-1055/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/AkG-1055/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AkG-1055/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/AkG-1055/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -337,6 +338,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AkG-1055/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AkG-1055/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/AkG-1055/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkG-1055/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AkG-1055/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -491,6 +493,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | ------- |
 | [0054-spiral-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/AkG-1055/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/AkG-1055/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1929-concatenation-of-array) |
