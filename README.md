@@ -846,6 +846,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AkG-1055/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkG-1055/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/1462-course-schedule-iv) |
+| [1791-find-center-of-star-graph](https://github.com/AkG-1055/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AkG-1055/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/AkG-1055/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
