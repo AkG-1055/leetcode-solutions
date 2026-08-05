@@ -609,6 +609,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1971-find-if-path-exists-in-graph](https://github.com/AkG-1055/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/AkG-1055/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/AkG-1055/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
 | ------- |
@@ -756,6 +757,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1971-find-if-path-exists-in-graph](https://github.com/AkG-1055/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/AkG-1055/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/AkG-1055/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -845,6 +847,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkG-1055/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AkG-1055/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/AkG-1055/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
