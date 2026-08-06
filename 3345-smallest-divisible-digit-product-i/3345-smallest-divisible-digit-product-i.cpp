@@ -13,7 +13,6 @@ public:
 
             if (product % t == 0) {
                 return i;
-                break;
             }
         }
 
