@@ -347,6 +347,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0189-rotate-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AkG-1055/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/AkG-1055/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AkG-1055/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AkG-1055/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -513,6 +514,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0054-spiral-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/AkG-1055/leetcode-solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/AkG-1055/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AkG-1055/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/AkG-1055/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -852,6 +854,7 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/AkG-1055/leetcode-solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/AkG-1055/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/AkG-1055/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
