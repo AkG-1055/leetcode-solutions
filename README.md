@@ -148,6 +148,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0020-valid-parentheses](https://github.com/AkG-1055/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AkG-1055/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AkG-1055/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AkG-1055/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/AkG-1055/leetcode-solutions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/AkG-1055/leetcode-solutions/tree/master/0165-compare-version-numbers) |
@@ -341,6 +342,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0013-roman-to-integer](https://github.com/AkG-1055/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AkG-1055/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AkG-1055/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AkG-1055/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0204-count-primes) |
@@ -394,6 +396,7 @@ My LeetCode solutions synced automatically using LeetHub.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AkG-1055/leetcode-solutions/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -509,6 +512,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | ------- |
 | [0054-spiral-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/AkG-1055/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/AkG-1055/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/AkG-1055/leetcode-solutions/tree/master/1260-shift-2d-grid) |
