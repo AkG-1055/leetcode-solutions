@@ -296,6 +296,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0875-koko-eating-bananas](https://github.com/AkG-1055/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/AkG-1055/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/AkG-1055/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/AkG-1055/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AkG-1055/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -361,6 +362,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0441-arranging-coins](https://github.com/AkG-1055/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkG-1055/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/AkG-1055/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AkG-1055/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/AkG-1055/leetcode-solutions/tree/master/1952-three-divisors) |
@@ -451,6 +453,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0658-find-k-closest-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/AkG-1055/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0912-sort-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/AkG-1055/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/AkG-1055/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -477,6 +480,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0240-search-a-2d-matrix-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/AkG-1055/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -707,6 +711,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0506-relative-ranks](https://github.com/AkG-1055/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/AkG-1055/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Queue
@@ -829,6 +834,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/AkG-1055/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -891,4 +897,12 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0207-course-schedule](https://github.com/AkG-1055/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [1462-course-schedule-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/1462-course-schedule-iv) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AkG-1055/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AkG-1055/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
