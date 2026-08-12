@@ -114,6 +114,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1748-sum-of-unique-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AkG-1055/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2404-most-frequent-even-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkG-1055/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AkG-1055/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AkG-1055/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -341,6 +342,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/AkG-1055/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2942-find-words-containing-character](https://github.com/AkG-1055/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/AkG-1055/leetcode-solutions/tree/master/2951-find-the-peaks) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkG-1055/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AkG-1055/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -689,6 +691,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0239-sliding-window-maximum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkG-1055/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Counting Sort
 |  |
 | ------- |
