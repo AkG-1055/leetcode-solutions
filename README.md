@@ -65,6 +65,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0567-permutation-in-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AkG-1055/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/AkG-1055/leetcode-solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0876-middle-of-the-linked-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/AkG-1055/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -294,6 +295,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0733-flood-fill](https://github.com/AkG-1055/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/AkG-1055/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/AkG-1055/leetcode-solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0860-lemonade-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/AkG-1055/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -404,6 +406,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0540-single-element-in-a-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/AkG-1055/leetcode-solutions/tree/master/0704-binary-search) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/AkG-1055/leetcode-solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/AkG-1055/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AkG-1055/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AkG-1055/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -458,6 +461,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0628-maximum-product-of-three-numbers](https://github.com/AkG-1055/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/AkG-1055/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/AkG-1055/leetcode-solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0905-sort-array-by-parity](https://github.com/AkG-1055/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AkG-1055/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -721,6 +725,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0658-find-k-closest-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AkG-1055/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/AkG-1055/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/AkG-1055/leetcode-solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AkG-1055/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
