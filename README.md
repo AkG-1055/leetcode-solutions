@@ -336,6 +336,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AkG-1055/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AkG-1055/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkG-1055/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/AkG-1055/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AkG-1055/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2404-most-frequent-even-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
@@ -478,6 +479,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1833-maximum-ice-cream-bars](https://github.com/AkG-1055/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AkG-1055/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/AkG-1055/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AkG-1055/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
