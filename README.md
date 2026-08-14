@@ -300,6 +300,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0740-delete-and-earn](https://github.com/AkG-1055/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AkG-1055/leetcode-solutions/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0827-making-a-large-island](https://github.com/AkG-1055/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/AkG-1055/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -600,6 +601,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0547-number-of-provinces](https://github.com/AkG-1055/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AkG-1055/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/AkG-1055/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/AkG-1055/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AkG-1055/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/AkG-1055/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkG-1055/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -655,6 +657,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0721-accounts-merge](https://github.com/AkG-1055/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AkG-1055/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AkG-1055/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0827-making-a-large-island](https://github.com/AkG-1055/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/AkG-1055/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AkG-1055/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -816,6 +819,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0721-accounts-merge](https://github.com/AkG-1055/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AkG-1055/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AkG-1055/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0827-making-a-large-island](https://github.com/AkG-1055/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/AkG-1055/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AkG-1055/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -891,6 +895,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0463-island-perimeter](https://github.com/AkG-1055/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AkG-1055/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/AkG-1055/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0867-transpose-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/AkG-1055/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AkG-1055/leetcode-solutions/tree/master/1020-number-of-enclaves) |
