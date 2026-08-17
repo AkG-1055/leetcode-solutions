@@ -101,6 +101,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/AkG-1055/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0433-minimum-genetic-mutation](https://github.com/AkG-1055/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/AkG-1055/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AkG-1055/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -171,6 +172,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0389-find-the-difference](https://github.com/AkG-1055/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/AkG-1055/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/AkG-1055/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0433-minimum-genetic-mutation](https://github.com/AkG-1055/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/AkG-1055/leetcode-solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/AkG-1055/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -655,6 +657,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0207-course-schedule](https://github.com/AkG-1055/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0322-coin-change) |
+| [0433-minimum-genetic-mutation](https://github.com/AkG-1055/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/AkG-1055/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/AkG-1055/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0542-01-matrix) |
@@ -965,4 +968,5 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/AkG-1055/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0433-minimum-genetic-mutation](https://github.com/AkG-1055/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
