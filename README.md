@@ -86,6 +86,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0073-set-matrix-zeroes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/AkG-1055/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/AkG-1055/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/AkG-1055/leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AkG-1055/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -160,6 +161,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0058-length-of-last-word](https://github.com/AkG-1055/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AkG-1055/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/AkG-1055/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/AkG-1055/leetcode-solutions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/AkG-1055/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -646,6 +648,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/AkG-1055/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/AkG-1055/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/AkG-1055/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AkG-1055/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -958,4 +961,8 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/AkG-1055/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/AkG-1055/leetcode-solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
