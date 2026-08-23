@@ -187,6 +187,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0709-to-lower-case](https://github.com/AkG-1055/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0721-accounts-merge](https://github.com/AkG-1055/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/AkG-1055/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AkG-1055/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/AkG-1055/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/AkG-1055/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -983,4 +984,8 @@ My LeetCode solutions synced automatically using LeetHub.
 | ------- |
 | [0127-word-ladder](https://github.com/AkG-1055/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/AkG-1055/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
