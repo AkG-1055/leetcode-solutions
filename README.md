@@ -240,6 +240,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0048-rotate-image](https://github.com/AkG-1055/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AkG-1055/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AkG-1055/leetcode-solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/AkG-1055/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AkG-1055/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -513,6 +514,7 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AkG-1055/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/AkG-1055/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0148-sort-list) |
@@ -541,6 +543,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0005-longest-palindromic-substring](https://github.com/AkG-1055/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/AkG-1055/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/AkG-1055/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AkG-1055/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AkG-1055/leetcode-solutions/tree/master/0118-pascals-triangle) |
