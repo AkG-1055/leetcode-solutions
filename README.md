@@ -291,6 +291,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0322-coin-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/AkG-1055/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -432,6 +433,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AkG-1055/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/AkG-1055/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -560,6 +562,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0213-house-robber-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/AkG-1055/leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AkG-1055/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/AkG-1055/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -605,6 +608,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0135-candy](https://github.com/AkG-1055/leetcode-solutions/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/AkG-1055/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/AkG-1055/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AkG-1055/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/AkG-1055/leetcode-solutions/tree/master/0561-array-partition) |
@@ -746,6 +750,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AkG-1055/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AkG-1055/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AkG-1055/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
