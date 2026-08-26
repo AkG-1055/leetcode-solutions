@@ -74,6 +74,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkG-1055/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -375,6 +376,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AkG-1055/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3693-climbing-stairs-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -446,6 +448,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1539-kth-missing-positive-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2560-house-robber-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/2560-house-robber-iv) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -466,6 +469,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0461-hamming-distance](https://github.com/AkG-1055/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/AkG-1055/leetcode-solutions/tree/master/0476-number-complement) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AkG-1055/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Sorting
 |  |
 | ------- |
