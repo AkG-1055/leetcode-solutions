@@ -73,6 +73,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkG-1055/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2396-strictly-palindromic-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -201,6 +202,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AkG-1055/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AkG-1055/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AkG-1055/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2315-count-asterisks](https://github.com/AkG-1055/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/AkG-1055/leetcode-solutions/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -627,6 +629,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1833-maximum-ice-cream-bars](https://github.com/AkG-1055/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AkG-1055/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AkG-1055/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2560-house-robber-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/2560-house-robber-iv) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/AkG-1055/leetcode-solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Interactive
@@ -1012,4 +1015,8 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 <!---LeetCode Topics End-->
