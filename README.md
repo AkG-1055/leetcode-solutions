@@ -387,6 +387,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [3731-find-missing-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/AkG-1055/leetcode-solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Math
 |  |
@@ -546,6 +547,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0347-top-k-frequent-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AkG-1055/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Counting
 |  |
 | ------- |
@@ -615,6 +617,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | ------- |
 | [0148-sort-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Greedy
 |  |
 | ------- |
@@ -776,6 +779,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1480-running-sum-of-1d-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/AkG-1055/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -1032,6 +1036,7 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -1040,4 +1045,8 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AkG-1055/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Segment Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 <!---LeetCode Topics End-->
