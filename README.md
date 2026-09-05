@@ -387,6 +387,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [3731-find-missing-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3903-smallest-stable-index-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/AkG-1055/leetcode-solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Math
@@ -779,6 +780,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1480-running-sum-of-1d-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/AkG-1055/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Enumeration
 |  |
