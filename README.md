@@ -372,6 +372,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AkG-1055/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2404-most-frequent-even-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/AkG-1055/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/AkG-1055/leetcode-solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2560-house-robber-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/2560-house-robber-iv) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/AkG-1055/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -485,6 +486,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0401-binary-watch](https://github.com/AkG-1055/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/AkG-1055/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/AkG-1055/leetcode-solutions/tree/master/0476-number-complement) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/AkG-1055/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AkG-1055/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Sorting
