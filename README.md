@@ -207,6 +207,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AkG-1055/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1678-goal-parser-interpretation](https://github.com/AkG-1055/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/AkG-1055/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AkG-1055/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AkG-1055/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -363,6 +364,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1833-maximum-ice-cream-bars](https://github.com/AkG-1055/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AkG-1055/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AkG-1055/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -537,6 +539,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AkG-1055/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/AkG-1055/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AkG-1055/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/AkG-1055/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -563,6 +566,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0347-top-k-frequent-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AkG-1055/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Counting
 |  |
@@ -833,6 +837,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0912-sort-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AkG-1055/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Queue
 |  |
@@ -961,6 +966,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0215-kth-largest-element-in-an-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/AkG-1055/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search Tree
 |  |
 | ------- |
