@@ -437,6 +437,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1952-three-divisors](https://github.com/AkG-1055/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/AkG-1055/leetcode-solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2235-add-two-integers](https://github.com/AkG-1055/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/AkG-1055/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -676,6 +677,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AkG-1055/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/AkG-1055/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AkG-1055/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/AkG-1055/leetcode-solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AkG-1055/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2560-house-robber-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/2560-house-robber-iv) |
