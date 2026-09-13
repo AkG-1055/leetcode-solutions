@@ -421,6 +421,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AkG-1055/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AkG-1055/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/AkG-1055/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AkG-1055/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/AkG-1055/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -461,6 +462,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0240-search-a-2d-matrix-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AkG-1055/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/AkG-1055/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/AkG-1055/leetcode-solutions/tree/master/0441-arranging-coins) |
