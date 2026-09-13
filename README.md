@@ -429,6 +429,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0509-fibonacci-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkG-1055/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/AkG-1055/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AkG-1055/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AkG-1055/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/AkG-1055/leetcode-solutions/tree/master/1952-three-divisors) |
@@ -500,6 +501,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0461-hamming-distance](https://github.com/AkG-1055/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/AkG-1055/leetcode-solutions/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/AkG-1055/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AkG-1055/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AkG-1055/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AkG-1055/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
