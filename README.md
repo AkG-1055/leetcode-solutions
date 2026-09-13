@@ -412,6 +412,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0048-rotate-image](https://github.com/AkG-1055/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AkG-1055/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AkG-1055/leetcode-solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/AkG-1055/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0204-count-primes) |
@@ -450,6 +451,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0033-search-in-rotated-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AkG-1055/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AkG-1055/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -1086,4 +1088,8 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AkG-1055/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
