@@ -125,6 +125,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1512-number-of-good-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AkG-1055/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1748-sum-of-unique-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AkG-1055/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2404-most-frequent-even-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkG-1055/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -213,6 +214,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AkG-1055/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AkG-1055/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AkG-1055/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2315-count-asterisks](https://github.com/AkG-1055/leetcode-solutions/tree/master/2315-count-asterisks) |
@@ -588,6 +590,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AkG-1055/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2404-most-frequent-even-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Dynamic Programming
 |  |
