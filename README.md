@@ -373,6 +373,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2373-largest-local-values-in-a-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2404-most-frequent-even-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AkG-1055/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/AkG-1055/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/AkG-1055/leetcode-solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2560-house-robber-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/2560-house-robber-iv) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/AkG-1055/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -682,6 +683,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0225-implement-stack-using-queues](https://github.com/AkG-1055/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkG-1055/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/AkG-1055/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -773,6 +775,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0239-sliding-window-maximum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/AkG-1055/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkG-1055/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AkG-1055/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting Sort
@@ -825,6 +828,7 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AkG-1055/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/AkG-1055/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Trie
 |  |
 | ------- |
