@@ -1,0 +1,25 @@
+class Solution {
+public:
+    int totalSteps(vector<int>& nums) {
+        stack<pair<int, int>> st;
+        int ans = 0;
+
+        for (int x : nums) {
+            int steps = 0;
+
+            while (!st.empty() && x >= st.top().first) {
+                steps = max(steps, st.top().second);
+                st.pop();
+            }
+
+            if (!st.empty()) {
+                steps++;
+            }
+
+            ans = max(ans, steps);
+            st.push({x, steps});
+        }
+
+        return ans;
+    }
+};
