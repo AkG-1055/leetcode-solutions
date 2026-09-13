@@ -21,6 +21,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0328-odd-even-linked-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/AkG-1055/leetcode-solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Recursion
 |  |
 | ------- |
@@ -158,6 +159,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AkG-1055/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkG-1055/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/AkG-1055/leetcode-solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## String
 |  |
 | ------- |
@@ -371,6 +373,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkG-1055/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/AkG-1055/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AkG-1055/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/AkG-1055/leetcode-solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2404-most-frequent-even-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AkG-1055/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -606,6 +609,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0907-sum-of-subarray-minimums](https://github.com/AkG-1055/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/AkG-1055/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AkG-1055/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/AkG-1055/leetcode-solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2560-house-robber-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/2560-house-robber-iv) |
 | [3693-climbing-stairs-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Simulation
@@ -621,6 +625,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1929-concatenation-of-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AkG-1055/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkG-1055/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/AkG-1055/leetcode-solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2810-faulty-keyboard](https://github.com/AkG-1055/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -700,6 +705,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AkG-1055/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkG-1055/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/AkG-1055/leetcode-solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Memoization
 |  |
 | ------- |
