@@ -230,6 +230,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3931-check-adjacent-digit-differences](https://github.com/AkG-1055/leetcode-solutions/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/AkG-1055/leetcode-solutions/tree/master/3941-password-strength) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/AkG-1055/leetcode-solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Design
 |  |
 | ------- |
@@ -451,6 +452,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/AkG-1055/leetcode-solutions/tree/master/3870-count-commas-in-range) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/AkG-1055/leetcode-solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Binary Search
 |  |
 | ------- |
@@ -593,6 +595,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1748-sum-of-unique-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2404-most-frequent-even-element](https://github.com/AkG-1055/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/AkG-1055/leetcode-solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Dynamic Programming
 |  |
 | ------- |
