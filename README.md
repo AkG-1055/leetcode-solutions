@@ -121,6 +121,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0997-find-the-town-judge](https://github.com/AkG-1055/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/AkG-1055/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1202-smallest-string-with-swaps](https://github.com/AkG-1055/leetcode-solutions/tree/master/1202-smallest-string-with-swaps) |
+| [1207-unique-number-of-occurrences](https://github.com/AkG-1055/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AkG-1055/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AkG-1055/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -351,6 +352,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1020-number-of-enclaves](https://github.com/AkG-1055/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1200-minimum-absolute-difference](https://github.com/AkG-1055/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/AkG-1055/leetcode-solutions/tree/master/1202-smallest-string-with-swaps) |
+| [1207-unique-number-of-occurrences](https://github.com/AkG-1055/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/AkG-1055/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AkG-1055/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
