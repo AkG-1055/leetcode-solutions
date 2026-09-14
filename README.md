@@ -432,6 +432,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0509-fibonacci-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkG-1055/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/AkG-1055/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1025-divisor-game](https://github.com/AkG-1055/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AkG-1055/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AkG-1055/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -627,6 +628,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0746-min-cost-climbing-stairs](https://github.com/AkG-1055/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/AkG-1055/leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/AkG-1055/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1025-divisor-game](https://github.com/AkG-1055/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/AkG-1055/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AkG-1055/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/AkG-1055/leetcode-solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -1085,6 +1087,7 @@ My LeetCode solutions synced automatically using LeetHub.
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/AkG-1055/leetcode-solutions/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/AkG-1055/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Binary Indexed Tree
 |  |
@@ -1107,4 +1110,12 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AkG-1055/leetcode-solutions/tree/master/0069-sqrtx) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AkG-1055/leetcode-solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AkG-1055/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
