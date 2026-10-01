@@ -1120,4 +1120,8 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/AkG-1055/leetcode-solutions/tree/master/1025-divisor-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AkG-1055/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
