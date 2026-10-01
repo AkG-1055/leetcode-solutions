@@ -161,6 +161,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0907-sum-of-subarray-minimums](https://github.com/AkG-1055/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkG-1055/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AkG-1055/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AkG-1055/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkG-1055/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/AkG-1055/leetcode-solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## String
@@ -206,6 +207,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1108-defanging-an-ip-address](https://github.com/AkG-1055/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/AkG-1055/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/AkG-1055/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AkG-1055/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1202-smallest-string-with-swaps](https://github.com/AkG-1055/leetcode-solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AkG-1055/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AkG-1055/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -1128,4 +1130,5 @@ My LeetCode solutions synced automatically using LeetHub.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkG-1055/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AkG-1055/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
