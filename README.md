@@ -213,6 +213,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AkG-1055/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1202-smallest-string-with-swaps](https://github.com/AkG-1055/leetcode-solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AkG-1055/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkG-1055/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AkG-1055/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AkG-1055/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1678-goal-parser-interpretation](https://github.com/AkG-1055/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
@@ -820,6 +821,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0438-find-all-anagrams-in-a-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AkG-1055/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkG-1055/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/AkG-1055/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkG-1055/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AkG-1055/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
