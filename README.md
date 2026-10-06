@@ -22,6 +22,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0876-middle-of-the-linked-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkG-1055/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/AkG-1055/leetcode-solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -136,6 +137,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AkG-1055/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AkG-1055/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AkG-1055/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AkG-1055/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkG-1055/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -409,6 +411,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AkG-1055/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AkG-1055/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
