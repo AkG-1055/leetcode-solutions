@@ -410,6 +410,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2446-determine-if-two-events-have-conflict](https://github.com/AkG-1055/leetcode-solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2560-house-robber-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/2560-house-robber-iv) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/AkG-1055/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/AkG-1055/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2951-find-the-peaks](https://github.com/AkG-1055/leetcode-solutions/tree/master/2951-find-the-peaks) |
@@ -872,6 +873,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | ------- |
 | [0204-count-primes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/AkG-1055/leetcode-solutions/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AkG-1055/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/AkG-1055/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Heap (Priority Queue)
