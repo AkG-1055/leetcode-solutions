@@ -189,6 +189,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0049-group-anagrams](https://github.com/AkG-1055/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AkG-1055/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AkG-1055/leetcode-solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/AkG-1055/leetcode-solutions/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/AkG-1055/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/AkG-1055/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/AkG-1055/leetcode-solutions/tree/master/0139-word-break) |
@@ -286,6 +287,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0057-insert-interval](https://github.com/AkG-1055/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AkG-1055/leetcode-solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/AkG-1055/leetcode-solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/AkG-1055/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AkG-1055/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -682,6 +684,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0054-spiral-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AkG-1055/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/AkG-1055/leetcode-solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/AkG-1055/leetcode-solutions/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/AkG-1055/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AkG-1055/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0867-transpose-matrix) |
