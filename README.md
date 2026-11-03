@@ -381,6 +381,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [1200-minimum-absolute-difference](https://github.com/AkG-1055/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/AkG-1055/leetcode-solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1207-unique-number-of-occurrences](https://github.com/AkG-1055/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/AkG-1055/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/AkG-1055/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AkG-1055/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/AkG-1055/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -766,6 +767,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AkG-1055/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/AkG-1055/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/AkG-1055/leetcode-solutions/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/AkG-1055/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkG-1055/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AkG-1055/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/AkG-1055/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -830,6 +832,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0994-rotting-oranges](https://github.com/AkG-1055/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AkG-1055/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/AkG-1055/leetcode-solutions/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/AkG-1055/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkG-1055/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AkG-1055/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1009,6 +1012,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkG-1055/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/AkG-1055/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/AkG-1055/leetcode-solutions/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/AkG-1055/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkG-1055/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/AkG-1055/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AkG-1055/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1085,6 +1089,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [0867-transpose-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/AkG-1055/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AkG-1055/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/AkG-1055/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/AkG-1055/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/AkG-1055/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/AkG-1055/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
