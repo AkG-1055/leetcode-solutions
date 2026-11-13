@@ -434,6 +434,7 @@ My LeetCode solutions synced automatically using LeetHub.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkG-1055/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AkG-1055/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AkG-1055/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AkG-1055/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AkG-1055/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AkG-1055/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AkG-1055/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
